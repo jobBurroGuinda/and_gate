@@ -1,0 +1,1 @@
+vhdtdtfi -prj and_gate -o /home/ise/Desktop/DSD/tutorias/and_gate/and_gate.vhi -module and_gate -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work and_gate.vhd 
